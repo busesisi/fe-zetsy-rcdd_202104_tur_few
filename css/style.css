@@ -33,7 +33,14 @@ border: 5px rgb(152,173,166) solid;
 
 
 p {
-  color: rgb(152,173,166)
+  color: #555;
+    font-size: 1em;
+    margin: 0 0 20px 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
   h2 {
