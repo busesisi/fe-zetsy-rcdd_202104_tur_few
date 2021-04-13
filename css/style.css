@@ -49,4 +49,8 @@ p {
     font-weight: bold;
 }
 
+#id {
+  margin-bottom: 20px;
+}
+
 /* Write all remaining styles here */
