@@ -34,7 +34,7 @@ border: 5px rgb(152,173,166) solid;
 .below {
   border: 2px rgb(152,173,166) solid;
 }
-p {
+h2, p {
   color: rgb(152,173,166)
 }
 
